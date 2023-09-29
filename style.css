@@ -1,0 +1,31 @@
+h1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+button {
+    background-color: #0074D9;
+    color: #FFF;
+    padding: 10px 20px;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#formatPhoneButton,#getRowButton {
+    background-color: #0056b3;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alert {
+    background-color: #FFDC00;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
